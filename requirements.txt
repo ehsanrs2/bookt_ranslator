@@ -1,0 +1,9 @@
+PyMuPDF
+googletrans==4.0.0rc1
+arabic-reshaper
+python-bidi
+langdetect
+regex
+tqdm
+python-docx
+lxml
